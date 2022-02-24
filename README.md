@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there, I’m Ojay 👋
 
-👋 Hi there, I’m Ojay
-👀 I’m interested in Everything Engineering and opportunities to learn, unlearn and relearn
-🌱 I’m currently learning Dart Flutter
-💞️ I’m looking to collaborate on a project that involves using Nodejs, React, React native
-📫 How to reach me twitter - @oj_redifined, mail - alikali.ojonugwajustice@gmail.com
+- 👀 I’m interested in Everything Engineering and opportunities to learn, unlearn and relearn
+- 🌱 I’m currently learning Dart Flutter
+- 💞️ I’m looking to collaborate on a project that involves using Nodejs, React, React native
+- 📫 How to reach me twitter - @oj_redifined, mail - alikali.ojonugwajustice@gmail.com
 
 <!--
 **Ojay-dev/Ojay-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
